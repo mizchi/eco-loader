@@ -1,5 +1,5 @@
 {
-  "name": "@mizchi/jst-eco-loader",
+  "name": "eco-loader",
   "version": "0.1.0",
   "description": "eco loader module for webpack",
   "main": "index.js",
